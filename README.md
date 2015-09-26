@@ -5,5 +5,3 @@ It's Bhanu Shukla here. I am a passionate Web Develper, trying to get my hands o
 
 Let's do it
 
-
-and we are still doing it.
